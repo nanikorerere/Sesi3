@@ -1,0 +1,14 @@
+.tanpa-bootstrap {
+    background-color: #5a82da;
+    color: white;
+    padding: 20px;
+    font-weight: bolder;
+    font-size:xx-large;
+    border: none;
+    border-radius: 10px;
+}
+
+.tanpa-bootstrap:hover {
+    background-color: #d63f3f;
+    color: black;
+}
